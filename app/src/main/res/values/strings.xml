@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Status Saver</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!-- Add Your own Banner ad unit id -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <!-- Add Your own interstitial ad unit id -->
+    <string name="interstitial_full_screen">ca-app-pub-3940256099942544/1033173712</string>
+
+</resources>
