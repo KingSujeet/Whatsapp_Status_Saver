@@ -1,6 +1,6 @@
 <h1>😃 WhatsApp Status Saver App</h1>
 
-<p>Hii, I build a WhatsApp status Saver app. </p>
+<p>Hii, I built a WhatsApp status Saver app. </p>
 
 <hr>
 
